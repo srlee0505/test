@@ -1,8 +1,7 @@
 hello world
 modify-1
 modify-2
-<<<<<<< HEAD
 test kwang jin
-=======
-kwang
->>>>>>> refs/remotes/origin/master
+shinjeongsoo
+gorani
+kwang!!
