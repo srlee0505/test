@@ -1,6 +1,13 @@
 hello world
 modify-1
 modify-2
+<<<<<<< HEAD
 im Doi Kim
 gorani
 DoiKim
+test kwang jin
+shinjeongsoo
+gorani
+kwang!!
+modify-anseung
+doidoibeam
