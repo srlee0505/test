@@ -2,6 +2,7 @@ hello world
 modify-1
 modify-2
 <<<<<<< HEAD
+<<<<<<< HEAD
 im Doi Kim
 gorani
 DoiKim
