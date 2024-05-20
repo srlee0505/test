@@ -1,1 +1,8 @@
-min
+modify-2
+test kwang jin
+shinjeongsoo
+gorani
+kwang!!
+modify-anseung
+>>>>>>> refs/remotes/origin/master
+QNPF
